@@ -36,4 +36,4 @@ Making **A-Star Search** approx. **0.002 secs** faster at finding an optimal sol
 1. Clone or download the repo https://github.com/alistaircc/knights-puzzle-python.git
 2. Navigate to the directory where repo was downloaded using `cd` cmdline
 3. Once in the root of the directory, run `pip install -r requirements.txt` (to install the necessary python lib packages) 
-4. Once installation is completed, run program by typing `python 4knights.py`
+4. Once installation is completed, run program by typing `python homework_1_4_knights_puzzle_solution.py`
