@@ -26,8 +26,8 @@ The reason why in this experiment we basically only measured "Optimality" for th
 
 #### **2. What were the results of A* vs Branch & Bound?**
 
-*   A-Search found a solution within 0.005233907699584961 secs on average.
-*   Branch & Bound Search found a solution within 0.0070170402526855465 secs on average.
+*   A-Search found a solution within 0.005230927467346191 secs on average.
+*   Branch & Bound Search found a solution within 0.0070782661437988285 secs on average.
 
 Making **A-Star Search** approx. **0.002 secs** faster at finding an optimal solution.
 
